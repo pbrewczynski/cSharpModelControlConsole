@@ -1,0 +1,6 @@
+g:\users\p_brewczynski\documents\visual studio 2012\Projects\Files2\Files2\bin\Debug\Files2.exe.config
+g:\users\p_brewczynski\documents\visual studio 2012\Projects\Files2\Files2\obj\Debug\Files2.csprojResolveAssemblyReference.cache
+g:\users\p_brewczynski\documents\visual studio 2012\Projects\Files2\Files2\bin\Debug\Files2.exe
+g:\users\p_brewczynski\documents\visual studio 2012\Projects\Files2\Files2\bin\Debug\Files2.pdb
+g:\users\p_brewczynski\documents\visual studio 2012\Projects\Files2\Files2\obj\Debug\Files2.exe
+g:\users\p_brewczynski\documents\visual studio 2012\Projects\Files2\Files2\obj\Debug\Files2.pdb
